@@ -1,8 +1,11 @@
 # Hangman
 ### About
 A text-based, single, and multiplayer game of hangman. Along with test files used for rigorous testing of the intermediate versions of the program, functions used, and the main components of the program. 
+
 Single-player mode: A random word is generated from a text file containing 996 words and the player then needs to guess this word letter by letter and they have 6 chances before they lose
+
 Multiplayer player mode: The first player needs to type in the word that will then need to be guessed by the other player, letter by letter and they have 6 chances before they lose.
+
 The program runs on the command line.
 
 ### Main Features
