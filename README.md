@@ -1,6 +1,6 @@
 # Hangman
 ### About
-A text-based, single, and multiplayer game of hangman. Along with test files used for rigorous testing of the intermediate versions of the program, functions used, and the main components of the program. 
+A text-based, single, and multiplayer game of hangman, using MATLAB. Along with test files used for rigorous testing of the intermediate versions of the program, functions used, and the main components of the program. 
 
 Single-player mode: A random word is generated from a text file containing 996 words and the player then needs to guess this word letter by letter and they have 6 chances before they lose
 
